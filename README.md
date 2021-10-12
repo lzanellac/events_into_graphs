@@ -1,4 +1,4 @@
-## Events represented as graphs
+## Extracted events represented as graphs
 Events in standoff format converted into graphs.
 
 
